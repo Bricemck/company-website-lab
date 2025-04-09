@@ -56,4 +56,4 @@ We implemented the ability to show and hide sections of the page based on what t
    ```bash
    npm run dev
    ```
-4. Open the app in your browser (usually at `http://localhost:3000`).
+4. Open the app in your browser (usually at `http://localhost:5173` or check terminal).
