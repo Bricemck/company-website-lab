@@ -1,5 +1,6 @@
-import { useState } from 'react';
+// src/components/Navbar.jsx
 // Importing state, but it's not being used.  I kept it in as it may be useful to add state later.
+import { useState } from 'react';
 
 
 //This defines a functional component named Navbar.

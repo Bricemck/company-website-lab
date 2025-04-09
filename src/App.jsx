@@ -1,8 +1,6 @@
+// src/App.jsx
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Navbar from './components/navbar/Navbar.jsx'
+import Navbar from './components/Navbar.jsx'
 import Home from './components/Home.jsx'
 import CompanyHistory from './components/Company-History.jsx'
 import Staff from './components/Staff.jsx'
